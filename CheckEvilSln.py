@@ -49,7 +49,7 @@ def scan_folder(path):
 
 def main():
     if len(sys.argv) < 2:
-        print('Please input file path parameters.')
+        print('Please input the directory you want to check.')
         return   
     
     path = sys.argv[1]
