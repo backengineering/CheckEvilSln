@@ -1,5 +1,5 @@
 # CheckEvilSln
-A simple python script to check evil visual studio project
+A simple python script to check evil Visual Studio project
 
 
 ## Background and purpose
